@@ -13,8 +13,9 @@
 <img src="https://media.tenor.com/9JgRRliqRv8AAAAj/penguins-penguin.gif" height="90" />
 <br><br><br>
 
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/yourprofile)
-[![](https://img.shields.io/badge/github-333)](https://github.com/yourusername)
-[![](https://img.shields.io/badge/portfolio-ff66ab)](https://yourportfolio.com)
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/gransil-dsouza/)
+[![](https://img.shields.io/badge/github-333)](https://github.com/DzGransilV2)
+
+<!-- [![](https://img.shields.io/badge/portfolio-ff66ab)](https://yourportfolio.com) -->
 
 </div>
